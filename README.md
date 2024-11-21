@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C# project, which integrates AutoCAD 3D .dwg files into C# .NET environment<br>🤝 I’m currently learning C# WPF and ACadSharp<br>💬 Feel free to ask me<br>⚡ Fun fact: I like cats
+🤝 I’m currently learning C# WPF<br>💬 Feel free to reach me!<br>
 
 
 ## 🌐 Socials:
