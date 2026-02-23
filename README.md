@@ -13,9 +13,6 @@ I'm a passionate software developer with a focus on creating efficient and scala
 - ABP.IO for Web App Platform
 - ASP.NET Razor for C#
 
-## 📈 GitHub Stats
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuchardaa&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - **Email:** asucharda@gmail.com
 - **LinkedIn:** [Adam Sucharda](https://www.linkedin.com/in/adam-sucharda/)
